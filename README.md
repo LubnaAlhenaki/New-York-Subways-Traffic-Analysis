@@ -40,17 +40,17 @@ We grouped the dataset by STATION_UNIT_SCP and calculated the sum of its TOTAL_T
 
 The following figere shows the top five Stations based on Average traffic in May
 
-![Image test]({{ site.url }}/images/project1-5.png)
+![Image test](/images/project1-5.png)
 
 The following figere shows the top five Stations based on Average traffic in Aug
 
-![Image test]({{ site.url }}/images/project1-6.png)
+![Image test](/images/project1-6.png)
 
 The Figures below is a graph of avrage traffic per hours in weekends and weekdays. We concluded from the graph that rush hours in weekdays are the most crowded days unlike weekends.
 
-![Image test]({{ site.url }}/images/project1-3.png)
+![Image test](/images/project1-3.png)
 
-![Image test]({{ site.url }}/images/project1-2.png)
+![Image test](/images/project1-2.png)
 
 ## 6. Results
 
