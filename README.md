@@ -60,7 +60,7 @@ After completing the analysis and visualization, we recommend distributing the t
 
 
 ## 7. Resource Description
-For more details please viste [Project Resource](https://github.com/thisismetis/sa19_ds1/tree/master/student_work/project1/team4). This repo contains the following:
+For more details please viste [Project Resource](https://github.com/LubnaAlhenaki/New-York-Subways-Traffic-Analysis). This repo contains the following:
 * Subway folder that contain the code file.
 * Project-01 pdf file that describe the project in details.
 
