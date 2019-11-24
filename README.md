@@ -10,7 +10,7 @@ WomenTechWomenYes (WTWY) is an international organizationthat aims to encourage 
 
 ## 2. Workflow
 The following figure shows the workflow of our analysis
-![Image test]({{ site.url }}/images/project1-4.png)
+![Image test](/images/project1-4.png)
 
 
 
